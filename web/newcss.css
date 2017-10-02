@@ -1,0 +1,205 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 21, 2016, 4:59:22 PM
+    Author     : taghreed
+*/
+
+.intro {
+       background-image: url("image/Dublin to Rosslare CREDIT IrishRail.ie.jpg");
+     background-size:cover;
+     background-repeat:no-repeat;
+    background-attachment: fixed;
+    
+ }
+
+.head{
+    height: 200px;
+}
+.head h1{
+       color: #629C44;
+       margin-left: 117px;
+       font-size: 95px;
+       font-family:cursive
+   
+}
+.main{
+      float: left;
+  height: 150px;
+    width: 40%; 
+  clear: both;
+    
+}
+.up{
+    margin: 0 220px;
+    margin-top: 80px;
+    border-radius: 20px;
+    border-bottom-style:solid;
+    border-bottom-color: #4C7A34;
+    height: 52px;
+    width: 280px;
+    font-size: 27px;
+    color:#4C7A34;
+    background-color: #CBE8BA;
+}
+.main2 {
+      float: left;
+      height: 150px;
+      width: 40%; 
+      clear: both;
+    
+}
+.in{
+    margin: 20px 220px;
+    border-radius: 20px;
+    border-bottom-style:solid;
+    border-bottom-color: #4C7A34;
+    height: 52px;
+    width: 280px;
+    font-size: 27px;
+    color:#4C7A34;
+    background-color: #CBE8BA;
+}
+.logincard{
+    width: 800px;
+    height: 500px;
+    border: 3px solid #4C7A34;
+    border-radius: 5%;
+    margin: 5% auto;
+    background-color: white
+}
+
+h3{
+    margin: 50px;
+    text-align: left;
+    color:#4C7A34;
+    font-size: 50px;
+}
+.login{
+      background: linear-gradient(to top,#CBE8BA,  #AEDD94);
+      background-repeat: no-repeat;
+      background-size:auto
+}
+.loginlist{
+    margin: 50px 100px;
+}
+.textarea{
+   height: 38px;
+   width: 560px;
+   margin: 10px;
+   border-color: #CBE8BA;
+   border-radius: 10px;
+   font-size: 17px;
+}
+a{
+    color: blue;
+    margin-left: 10px;
+    font-size: 15px;
+    
+}
+a:active{
+    color: red;
+}
+
+.signcard{
+    width: 800px;
+    height: 700px;
+    border: 3px solid #4C7A34;
+    border-radius: 5%;
+    margin: 5% auto;
+    background-color: white
+}
+#radio{
+    font-size: 20px;
+    padding: 5px
+}
+
+header{
+    background-image: url("image/Dublin to Rosslare CREDIT IrishRail.ie.jpg");
+    background-repeat:round;
+    background-size: cover;
+    width: auto;
+    height: 300px;
+   /* opacity: 0.8;*/
+    background-position:relative;
+
+}
+h1{
+     
+    text-align: left;
+    position: absolute;
+       color: #629C44;
+       margin-left: 117px;
+       font-size: 80px;
+       font-family:cursive
+}
+
+header .menu .list{
+    margin-top: 20px;
+    float: right;
+    overflow: hidden;
+    margin-right: 100px;
+    background-color: transparent;
+border: none;
+}
+header .menu .list ol{
+    float: left;
+    list-style-type:none;
+   /* padding: 10px;*/
+    font-size: 60px;
+}
+header .menu .list ol a{
+    color: #4C7A34;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 23px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#CBE8BA;
+    
+    border: 1px solid #4C7A34;
+}
+
+li {
+    float: left;
+    border-right: 2px solid #4C7A34;
+    border-left: 2px solid #4C7A34;
+}
+
+li a {
+    display: block;
+    color: #4C7A34;
+    text-align: center;
+    padding: 8px 180px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li a:hover {
+    background-color: #72BB53;
+}
+.active{
+    background-color: #72BB53;
+}
+
+.uplist{
+  padding-left: 200px ;
+ 
+  background: linear-gradient(to top,#CBE8BA,  #AEDD94);
+  
+}
+table td{
+    margin: 10px;
+}
+ table{
+                border :3px;
+                width: 100%;
+                padding: 10px;
+            }

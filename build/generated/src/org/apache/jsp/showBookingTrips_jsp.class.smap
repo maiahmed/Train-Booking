@@ -1,0 +1,22 @@
+SMAP
+showBookingTrips_jsp.java
+JSP
+*S JSP
+*F
++ 0 showBookingTrips.jsp
+showBookingTrips.jsp
+*L
+5,5:45
+9:49,2
+10,45:51
+56,16:98
+71,15:114
+86,14:130
+99,3:144
+102,6:147,3
+108,5:165
+112,2:170
+113,3:172
+116,6:176
+121,10:182
+*E
